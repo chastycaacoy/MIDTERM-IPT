@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chasty Mae Caacoy\\OneDrive\\Desktop\\CAACOY-IPT\\MIDTERM-IPT\\IPT102-asp-starter-main\\dotnetsample.csproj",
+      "projectUniqueName": "C:\\Users\\Chasty Mae Caacoy\\OneDrive\\Desktop\\CAACOY-IPT\\MIDTERM-IPT\\dotnetsample.csproj",
       "projectName": "dotnetsample",
-      "projectPath": "C:\\Users\\Chasty Mae Caacoy\\OneDrive\\Desktop\\CAACOY-IPT\\MIDTERM-IPT\\IPT102-asp-starter-main\\dotnetsample.csproj",
+      "projectPath": "C:\\Users\\Chasty Mae Caacoy\\OneDrive\\Desktop\\CAACOY-IPT\\MIDTERM-IPT\\dotnetsample.csproj",
       "packagesPath": "C:\\Users\\Chasty Mae Caacoy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chasty Mae Caacoy\\OneDrive\\Desktop\\CAACOY-IPT\\MIDTERM-IPT\\IPT102-asp-starter-main\\obj\\",
+      "outputPath": "C:\\Users\\Chasty Mae Caacoy\\OneDrive\\Desktop\\CAACOY-IPT\\MIDTERM-IPT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chasty Mae Caacoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
